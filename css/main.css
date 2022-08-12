@@ -81,7 +81,7 @@ p > a {
 	z-index: -1;
 }
 
-.video {
+.media {
 	width: 50vw;
 	height: calc(50vw*9/16);
 }
